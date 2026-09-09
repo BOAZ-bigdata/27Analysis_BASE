@@ -1,0 +1,3 @@
+RAG:https://app.notion.com/p/2021-NeurIPS-RAG-Retrieval-Augmented-Generation-for-Knowledge-Intensive-NLP-Tasks-33bccc09843e80ff9350fbe76b888ccb?source=copy_link
+
+LoRA:https://app.notion.com/p/2022-ICLR-LoRA-Low-Rank-Adaptation-of-Large-Language-Models-32bccc09843e80d9a106f71338de6b7d?v=2f9ccc09843e817a881b000cf444930d&source=copy_link
