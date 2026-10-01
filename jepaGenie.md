@@ -1,0 +1,1 @@
+https://app.notion.com/p/Genie-JEPA-3e4ccc09843e8045ad3dc21124fcce48?source=copy_link
